@@ -1,0 +1,7 @@
+.idea/
+.env
+.venv/
+image.png
+*.mp3
+*.mp4
+/assets
