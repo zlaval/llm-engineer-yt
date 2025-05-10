@@ -3,3 +3,8 @@ dotenv
 openai
 transformers
 torch
+langchain_community
+langchain
+langchain_core
+langchain_openai
+faiss-cpu
